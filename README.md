@@ -42,3 +42,20 @@ $ npm run start
 $ npm run start:dev
 
 
+
+
+
+
+
+# 1. Encontre o maior número em uma lista: Escreva um algoritmo para encontrar o maior número em uma lista de valores. ok 
+
+# 2. Verifique se um número é primo: Crie um programa que determine se um número é primo ou não. ok 
+
+# 3. Inverta uma string: Desenvolva um algoritmo que inverta uma string fornecida como entrada. ok 
+
+
+# 4. Calcule o fatorial de um número: Escreva um programa que calcule o fatorial de um número dado.  ok
+
+# 5. Ordenação de lista: Implemente um algoritmo de ordenação para ordenar uma lista de valores. ok 
+
+# 6. Verifique se uma palavra é um palíndromo: Crie um programa que identifique se uma palavra é um palíndromo 
