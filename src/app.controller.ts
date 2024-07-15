@@ -4,7 +4,7 @@ import { Primo } from './NumPrimo';
 import { inverterString } from './Inverte';
 import { fatorial } from './Fatorial';
 import { Ordenar } from './Ordenar';
-
+import { Palindromo } from './palindromo';
 
 
 
@@ -57,7 +57,21 @@ const lista = [5,6,10,11,2,1,8,7];
 console.log("Lista ordenada:", Ordenar(lista));
 
 
+
+
+
+
+
+const word1 = "radar";
+const word2 = "bob"
+const word3 = "ana"
+
+console.log(`"${word1}" é um palíndromo?`, Palindromo(word1)); 
+
+console.log(`"${word2}" é um palíndromo?`, Palindromo(word2)); 
  
-    return "Hello ";
+console.log(`"${word3}" é um palíndromo?`, Palindromo(word3)); 
+
+return "Hello ";
   }
 }
